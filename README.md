@@ -1,7 +1,5 @@
 # RouteRisk
 
-#### Video Demo: 
-
 #### Description:
 RouteRisk is a desktop application that predicts last-mile delivery times using machine learning and provides an additional delivery risk assessment based on factors such as traffic, weather, distance, time of day, and courier experience.
 
